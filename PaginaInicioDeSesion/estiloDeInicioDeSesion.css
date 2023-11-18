@@ -5,5 +5,17 @@ body{
     background-size: cover;
 
     color: rgb(255, 0, 0);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+div#contonedor{
+    
+}
+
+form#formulario{
+    display: flex;
+    flex-direction: column;
 }
